@@ -35,7 +35,7 @@ Los objetivos principales de este proyecto son:
 <img src="imagen/arquitectura.jpeg" alt="Diagrama de arquitectura" width="1000" height="400">
 
 ---
-## 4 Arquitectura de Datos
+## 4. Arquitectura de Datos
 
 4.1. **Fuentes de Datos (Source)**
 - **Estación HPWREN**: Actúa como fuente de datos en tiempo real, recolectando datos de sensores en vivo.
@@ -82,7 +82,7 @@ Los objetivos principales de este proyecto son:
 -  4. Finalmente, se visualizan en dashboards construidos con herramientas como **Streamlit** y **Matplotlib**.
 
 ---
-## 4 Claridad y Justificación del Proyecto
+## 5. Claridad y Justificación del Proyecto
 
 El proyecto "Monitoreo Meteorológico en Tiempo Real para la Gestión Agrícola - Datos de la Estación HPWREN (UCSD)" surge como una respuesta directa a los desafíos que enfrentan los agricultores de San Diego, California, debido a las condiciones climáticas extremas. Fenómenos como vientos fuertes, heladas, sequías y lluvias intensas representan riesgos significativos para la producción agrícola, impactando tanto la rentabilidad como la sostenibilidad del sector.
 
