@@ -11,15 +11,15 @@ import pytz
 
 # Configuración del productor de Kafka
 producer_conf = {
-    'bootstrap.servers': '3.133.39.161:9092',  # Cambia según tu configuración
+    'bootstrap.servers': '',  # Cambia según tu configuración
     'client.id': socket.gethostname(),
 }
 producer = Producer(producer_conf)
 
 # Configuración del consumidor de Kafka
 consumer_conf = {
-    'bootstrap.servers': '3.133.39.161:9092',
-    'group.id': 'weather-station-consumer-group',
+    'bootstrap.servers': '',
+    'group.id': '',
     'auto.offset.reset': 'earliest'
 }
 consumer = Consumer(consumer_conf)
