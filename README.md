@@ -95,3 +95,6 @@ La creación de pipelines de datos que alimenten un dashboard interactivo no sol
 En conclusión, este proyecto está plenamente justificado, ya que responde a una necesidad concreta del sector agrícola de San Diego. Al aprovechar tecnologías modernas como Apache Kafka, Spark y machine learning, se busca transformar los desafíos climáticos en oportunidades para mejorar la eficiencia, sostenibilidad y resiliencia del sector agrícola, beneficiando tanto a los agricultores como a la economía local.
 
 ---
+Link del sitio Web donde se muestra el Dashboard [http://www.weather.nexting.click/](http://www.weather.nexting.click/)
+
+NOTA: Los servicios utilizados para los pipelines de datos pertenecen a la capa gratuita. Es posible que algunos dashboards no estén actualizados debido al vencimiento al acceso de estos servicios
