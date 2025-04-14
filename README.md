@@ -97,4 +97,4 @@ En conclusión, este proyecto está plenamente justificado, ya que responde a un
 ---
 Link del sitio Web donde se muestra el Dashboard [http://www.weather.nexting.click/](http://www.weather.nexting.click/)
 
-NOTA: Los servicios utilizados para los pipelines de datos pertenecen a la capa gratuita. Es posible que algunos dashboards no estén actualizados debido al vencimiento al acceso de estos servicios
+NOTA: Los servicios utilizados para los pipelines de datos pertenecen a la capa gratuita. Es posible que link del dashboard no estén funcionando debido al vencimiento al acceso de estos servicios.
